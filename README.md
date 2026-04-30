@@ -1,4 +1,4 @@
-# AlphaFold via, CollabFold  
+# EGFR (Epidermal Growth Factor Receptor) 3-D Structure Prediction Using AlphaFold via, CollabFold 
 ## 🧬 AlphaFold Protein Structure Prediction using ColabFold
 ## 📌 Project Overview 
 This project focuses on predicting 3D protein structures from amino acid sequences using ColabFold, a fast and accessible implementation of AlphaFold. The goal is to understand protein folding and structural biology using deep learning-based approaches.
