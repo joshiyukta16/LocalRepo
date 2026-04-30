@@ -3,7 +3,7 @@
 ## 📌 Project Overview 
 This project focuses on predicting 3D protein structures from amino acid sequences using ColabFold, a fast and accessible implementation of AlphaFold. The goal is to understand protein folding and structural biology using deep learning-based approaches.
 
-## 🧪 Methodology
+## 📓 Methodology
 - Input protein sequences were obtained in FASTA format
 - ColabFold (AlphaFold2 + MMseqs2 pipeline) was used for structure prediction
 - Multiple sequence alignment (MSA) generation for evolutionary information
