@@ -34,3 +34,13 @@ This project focuses on predicting 3D protein structures from amino acid sequenc
 - Docking studies with ligands
 - Pipeline automation for high-throughput protein analysis
 - Extension to multi-protein complexes 
+
+👩‍💻 Author
+
+Yukta Joshi B.Tech Bioinformatics (AI & ML)
+
+🙏 Acknowledgment
+
+Data provided by NCBI GEO database.
+
+⭐ If you like this project, give it a star!! 
