@@ -41,6 +41,6 @@ Yukta Joshi B.Tech Bioinformatics (AI & ML)
 
 🙏 Acknowledgment
 
-Data provided by NCBI GEO database.
+This project is built using ColabFold (AlphaFold2 implementation). I acknowledge DeepMind and the ColabFold developers for their open-source contribution to protein structure prediction. Their work has been instrumental in enabling modern computational biology research. 
 
 ⭐ If you like this project, give it a star!! 
