@@ -35,6 +35,7 @@ This project focuses on predicting 3D protein structures from amino acid sequenc
 - Pipeline automation for high-throughput protein analysis
 - Extension to multi-protein complexes 
 
+
 👩‍💻 Author
 
 Yukta Joshi B.Tech Bioinformatics (AI & ML)
